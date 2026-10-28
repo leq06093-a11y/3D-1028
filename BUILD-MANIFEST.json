@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "artifacts": [
+    {
+      "filename": "AQUA-REALM-3D-1.0.0-Windows.exe",
+      "bytes": 110674138,
+      "sha256": "835606de73a5192b65e8c83dc5c73256046af1261595047e6270d32dbd40981f"
+    },
+    {
+      "filename": "AQUA-REALM-3D-1.0.0-Windows.zip",
+      "bytes": 150831734,
+      "sha256": "2a4119e2ab9ab1c6f4b282728709631fe72b095d27a51e5fd84d36fdc389d4bd"
+    }
+  ],
+  "zipIntegrity": "passed",
+  "applicationArchitecture": "AMD64",
+  "portableStubArchitecture": "I386 (NSIS)",
+  "unitTestsPassed": 64,
+  "linuxPackagedElectronTested": true,
+  "offlineModelAndHighQualityShaderTested": true,
+  "windowsRuntimeTested": false,
+  "rtxBenchmarkTested": false,
+  "modelAssetHashesChecked": 10,
+  "published": false,
+  "source": {
+    "filename": "AQUA-REALM-3D-1.0.0-source.zip",
+    "bytes": 26486454,
+    "sha256": "08206afd826cf2d719e72c4aecc94fd1fa3f76a7ddb049a7106b43c64df96e39",
+    "commit": "73c1082e5091fee6f274df663b6fc10d32dbff6e",
+    "tag": "aqua-v1.0.0-ready"
+  }
+}

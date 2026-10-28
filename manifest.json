@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "appFile": "AQUA-REALM-3D-1.0.0-Windows.exe",
+  "bytes": 110674138,
+  "sha256": "835606de73a5192b65e8c83dc5c73256046af1261595047e6270d32dbd40981f",
+  "parts": [
+    {
+      "name": "AQUA.part01.bin",
+      "bytes": 62914560,
+      "sha256": "d4ac6da78eae2bcd4dbeaca820a4b51ef6e210fa9c995aa30b9259573671628f"
+    },
+    {
+      "name": "AQUA.part02.bin",
+      "bytes": 47759578,
+      "sha256": "3fe6a7f7315609db355e316de6b29ad4f1e01dbd6d68f24a667a746badc999fc"
+    }
+  ]
+}
